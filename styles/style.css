@@ -76,7 +76,7 @@
 }
 
 .theme-light .rec,
-.theme-auto:not(.theme-dark) .rec{
+.theme-auto:not(.theme-dark) .rec {
   display: none;
 }
 
@@ -145,7 +145,7 @@ h1 {
 .title-accent-color {
   color: var(--accent-color-title);
   font-size: 18px;
-} 
+}
 
 .description-text {
   margin-top: 10px;

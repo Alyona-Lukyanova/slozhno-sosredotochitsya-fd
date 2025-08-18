@@ -7,15 +7,14 @@
 }
 
 body {
+  margin: 0 auto;
   min-inline-size: 375px;
   max-inline-size: 1440px;
-  margin: 0 auto;
 }
 
 h1,
 h2,
-h3
- {
+h3 {
   margin: 0;
   font-family: "IBM Plex mono", monospace;
   font-weight: 700;
@@ -23,9 +22,9 @@ h3
 
 p,
 h4 {
+  margin: 0;
   font-family: "IBM Plex mono", monospace;
   font-weight: 400;
-  margin: 0;
   line-height: 23.4px;
 }
 
