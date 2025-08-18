@@ -14,12 +14,19 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h3
+ {
   margin: 0;
+  font-family: "IBM Plex mono", monospace;
+  font-weight: 700;
+}
+
+p,
+h4 {
+  font-family: "IBM Plex mono", monospace;
+  font-weight: 400;
+  margin: 0;
+  line-height: 23.4px;
 }
 
 ul {
