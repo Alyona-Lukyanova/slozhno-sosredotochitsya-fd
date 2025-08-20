@@ -3,8 +3,7 @@
   Здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-.theme-light .rec,
-.theme-auto:not(.theme-dark) .rec {
+.theme-light .rec {
   display: none;
 }
 
