@@ -112,7 +112,7 @@
 }
 
 .header__theme-menu-button:focus-visible {
-  border: 1px solid color-mix(in srgb, var(--nav-color), transparent);
+  border-bottom: 1px solid var(--nav-color);
 }
 
 .main-title {
