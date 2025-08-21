@@ -27,6 +27,7 @@
   /* цвет списка кнопок переключени тем и уголков */
   --nav-color: #353430;
   --nav-color-rgb: rgba(53, 52, 48, 1);
+  --rec-display: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -47,5 +48,6 @@
     /* цвет списка кнопок переключени тем и уголков */
     --nav-color: #353430;
     --nav-color-rgb: rgba(53, 52, 48, 1);
+    --rec-display: none;
   }
 }
